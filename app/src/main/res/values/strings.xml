@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cocktail DB</string>
+    <string name="drink_image">Drink image</string>
+    <string name="category_selection">Category selection</string>
+    <string name="drinks">Drinks</string>
+    <string name="filter">Filter</string>
+    <string name="filters">Filters</string>
+    <string name="apply">Apply</string>
+    <string name="error_drinks_no_connection">Unable to retrieve drinks. Check your Internet connection</string>
+    <string name="error_categories_no_connection">Unable to retrieve categories. Check your Internet connection</string>
+</resources>
